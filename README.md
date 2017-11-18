@@ -1,2 +1,1 @@
-# Front-end Excercises
-## Nashville Software School May, 2017 - July, 2017
+## [Nashville Software School Client-side Master](https://github.com/nashville-software-school/client-side-mastery)
